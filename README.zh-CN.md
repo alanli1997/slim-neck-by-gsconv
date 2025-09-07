@@ -1,6 +1,7 @@
 # [基于GSConv的轻量融合层：一个轻量的实时检测器结构设计](https://link.springer.com/epdf/10.1007/s11554-024-01436-6?sharing_token=PnoS2pcyoX3DO53D6AhA1ve4RwlQNchNByi7wbcMAY6DXldzc1NE_k9ohttAZ9oJUMtRgKGzJKgCt4El9qua7_WrXHOS37Upe7OapcdpypW8JiIUpjiGE47a_4DijGzo3ayyfy9W1GXDjVBXCuzym29CD7lXTbN7qA1TlMK1vZU=)
 
-### 🎉🎉🎉最新工作! 重新思考用于图像识别(检测或分割)的特征融合颈部贡献 -> [ECCV2024] [Rethinking Features-Fused-Pyramid-Neck for Object Detection](https://github.com/AlanLi1997/rethinking-fpn)
+### 🎉🎉🎉新工作! 重新思考用于图像识别(检测或分割)的特征融合颈部贡献 -> [ECCV2024] [Rethinking Features-Fused-Pyramid-Neck for Object Detection](https://github.com/AlanLi1997/rethinking-fpn)
+### 🎉🎉🎉新新工作! 用于暗光交通场景目标感知的生物启发的视觉模型 -> [ESWA2025] [A Biologically Inspired Separable Learning Vision Model for Real-time Traffic Object Perception in Dark](https://doi.org/10.1016/j.eswa.2025.129529)
 
 <p align="center">
   <img src="gsconvdet.png" alt="" width="800" />
