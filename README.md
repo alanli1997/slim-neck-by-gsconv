@@ -1,6 +1,7 @@
 # [Slim-neck by GSConv: a lightweight-design for real-time detector architectures](https://link.springer.com/epdf/10.1007/s11554-024-01436-6?sharing_token=PnoS2pcyoX3DO53D6AhA1ve4RwlQNchNByi7wbcMAY6DXldzc1NE_k9ohttAZ9oJUMtRgKGzJKgCt4El9qua7_WrXHOS37Upe7OapcdpypW8JiIUpjiGE47a_4DijGzo3ayyfy9W1GXDjVBXCuzym29CD7lXTbN7qA1TlMK1vZU=)
 
 ### 🎉🎉🎉NEW WORK! -> [ECCV2024] [Rethinking Features-Fused-Pyramid-Neck for Object Detection](https://github.com/AlanLi1997/rethinking-fpn)
+### 🎉🎉🎉NEWNEW WORK! -> [ESWA2025] [A Biologically Inspired Separable Learning Vision Model for Real-time Traffic Object Perception in Dark](https://doi.org/10.1016/j.eswa.2025.129529)
 
 
 [English](README.md) | [简体中文](README.zh-CN.md)
